@@ -1,5 +1,5 @@
 # Cyber Security Internship Task 8  
-**Topic: Role of VPN (Hands-on Lab)**
+**Topic: VPN (Hands-on Lab)**
 
 ---
 
