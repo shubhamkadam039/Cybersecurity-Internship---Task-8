@@ -49,10 +49,10 @@ Understand the role of VPNs in protecting privacy and securing communication by 
 
 ## Screenshots
 
-- ![IP address with VPN active]
-- ![Speed test without VPN]
-- ![IP address with VPN off]
-- ![Speed test with VPN]
+- [IP address with VPN active]
+- [Speed test without VPN]
+- [IP address with VPN off]
+- [Speed test with VPN]
 ---
 
 ## Key Findings
