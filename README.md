@@ -1,5 +1,5 @@
 # Cyber Security Internship Task 8  
-**Topic: Identify and Remove Suspicious Browser Extensions — VPN Hands-on Lab**
+**Topic: Role of VPN (Hands-on Lab)**
 
 ---
 
